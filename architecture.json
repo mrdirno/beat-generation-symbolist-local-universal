@@ -1,0 +1,160 @@
+{
+  "book_id": "beat-generation-symbolist-local-universal",
+  "title": "The Midnight Palms",
+  "tagline": "A lost son follows a trail of living symbols through the rain-slicked city to find the place where meaning pools.",
+  "target_words": 70000,
+  "actual_words": 71746,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Inheritance of Unfinished Quests",
+    "Symbols as Physical Geography",
+    "The Beatnik Underbelly of a City",
+    "Local as Portal to the Universal"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Pelican Flies at Midnight",
+      "words": 2989
+    },
+    {
+      "ch": 2,
+      "title": "The Grand Hotel for the Symbolically Displaced",
+      "words": 2989
+    },
+    {
+      "ch": 3,
+      "title": "The Map in the Mouth",
+      "words": 2989
+    },
+    {
+      "ch": 4,
+      "title": "The Weeping Nymph's Century",
+      "words": 2989
+    },
+    {
+      "ch": 5,
+      "title": "Where the Wallpaper Peels",
+      "words": 2989
+    },
+    {
+      "ch": 6,
+      "title": "A Bad Batch of Symbolism",
+      "words": 2989
+    },
+    {
+      "ch": 7,
+      "title": "The Anchor and the Three-Eyed Cat",
+      "words": 2989
+    },
+    {
+      "ch": 8,
+      "title": "The Color of Melancholy",
+      "words": 2989
+    },
+    {
+      "ch": 9,
+      "title": "The Wayward Queen's Last Bearing",
+      "words": 2989
+    },
+    {
+      "ch": 10,
+      "title": "The Saxophone That Never Resolves",
+      "words": 2989
+    },
+    {
+      "ch": 11,
+      "title": "Bergamot and Salt",
+      "words": 2989
+    },
+    {
+      "ch": 12,
+      "title": "The Alley as a Throat",
+      "words": 2989
+    },
+    {
+      "ch": 13,
+      "title": "The Key Inside the Bottle",
+      "words": 2989
+    },
+    {
+      "ch": 14,
+      "title": "A Local Universal",
+      "words": 2989
+    },
+    {
+      "ch": 15,
+      "title": "The Dowsing of Meaning",
+      "words": 2989
+    },
+    {
+      "ch": 16,
+      "title": "Crossing Brooklyn Ferry, Here",
+      "words": 2989
+    },
+    {
+      "ch": 17,
+      "title": "The Grime Finds New Cracks",
+      "words": 2989
+    },
+    {
+      "ch": 18,
+      "title": "Hugo's Bleary Gate",
+      "words": 2989
+    },
+    {
+      "ch": 19,
+      "title": "The Ladder Going Nowhere",
+      "words": 2989
+    },
+    {
+      "ch": 20,
+      "title": "Mara's Storm Cloud Trench",
+      "words": 2989
+    },
+    {
+      "ch": 21,
+      "title": "Silas's Fever-Bright Eyes",
+      "words": 2989
+    },
+    {
+      "ch": 22,
+      "title": "The Smell of Distant Mountains",
+      "words": 2989
+    },
+    {
+      "ch": 23,
+      "title": "Where the Symbols Pool",
+      "words": 2989
+    },
+    {
+      "ch": 24,
+      "title": "The Rain on the Neon",
+      "words": 2989
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character must use a specific poem as a literal key or code to open a door in the modern city.",
+      "Create a new resident of the Grand Hotel for the Symbolically Displaced, detailing their unique symbolic affliction and their room.",
+      "Describe a 'thin place' in your own local area where the 'wallpaper of reality' seems to peel, using specific, sensory details.",
+      "Write a dialogue between two characters arguing intensely about the 'true color' of an abstract concept like nostalgia, regret, or hope."
+    ],
+    "technical": [
+      "Build an interactive map of the novel's city where locations are tagged not with names but with the symbols and literary fragments that define them.",
+      "Create a generative text tool that 'translates' a user's physical location into a beat-style prose poem, blending local details with universal themes."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Jack Kerouac",
+      "Arthur Rimbaud",
+      "Virginia Woolf",
+      "Jorge Luis Borges"
+    ]
+  },
+  "cover_prompt": "A lone, trench-coated figure kneels in a rain-slicked alleyway, his hand tracing a glowing, phosphorescent symbol etched into the wet asphalt, as if the city itself is whispering a map, [the scene is set in the neon-drenched, beatnik underbelly of a 1950s metropolis where coffee shop windows steam and jazz bleeds from basement doors, and every wall, puddle, and fire escape is a potential glyph in a living, breathing geography], in the atmospheric style of a synthesis of Edward Hopper's cinematic loneliness and Arthur Rackham's intricate, symbolic linework, rendered in moody oil painting with textured impasto, [book cover framing, a centered and intimate composition looking down on the figure as if from a fire escape, a dramatic low-angle that makes the alley walls feel towering and the glowing symbol the focal point], [volumetric noir lighting with pools of neon reflection from crimson and electric blue signs cutting through the misty, midnight air, a palette of deep indigo, asphalt black, chrome yellow, and sickly urban green], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
