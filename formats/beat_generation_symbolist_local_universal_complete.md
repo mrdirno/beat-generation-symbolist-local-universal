@@ -2,7 +2,9 @@
 
 ## **Chapter 1**
 
-The rain on the neon was a kind of lie. It made everything look clean, like the city was crying and getting washed, but the grime was just moving around, finding new cracks to settle in. Leo watched it from under the awning of the *Midnight Palms*, the last real bookstore left on the strip. He was waiting for the man with the map in his teeth.
+Jazz bled through the floorboards, a syncopated pulse from the club below. Leo traced the water stain on his ceiling—a map of continents unknown. Each damp continent whispered of ships he’d never board, of a world that ended at the Hudson but dreamed in the key of everywhere. His typewriter waited, hungry and mute.
+
+
 
 He wasn’t supposed to be here. He was supposed to be at the warehouse, stacking crates of imported tea, a job that smelled of dust and distant mountains. But the letter had come that morning, typed on paper so thin it felt like insect wing, one sentence: *The pelican flies at midnight. Bring the Whitman.* And it was signed with a symbol, a small, careful drawing of a key inside a bottle. He knew that symbol. It was burned into the cover of the book he now held tight against his chest, a battered copy of *Leaves of Grass* that smelled of his father’s tobacco and salt air.
 
