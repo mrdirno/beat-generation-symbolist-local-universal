@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **Chapter 1**
 
 The rain on the neon was a kind of lie. It made everything look clean, like the city was crying and getting washed, but the grime was just moving around, finding new cracks to settle in. Leo watched it from under the awning of the *Midnight Palms*, the last real bookstore left on the strip. He was waiting for the man with the map in his teeth.
@@ -173,6 +175,8 @@ The game was on. And he was already in motion.
 **[End Chapter 1: 2,498 words]**
 
 ---
+# Chapter 2
+
 ## **Chapter 2**
 
 The safe place was a laundromat called *Sudz* that never closed. It smelled of hot cotton, bleach, and the faint, perpetual mildew of coins. The fluorescent lights buzzed like trapped flies, bleaching the color from everything. In the back, behind a beaded curtain that separated the washers from the owner’s living quarters, was a small, overheated room dominated by a giant, sleeping tabby cat and a percolator that had been brewing the same coffee since the Truman administration.
@@ -368,6 +372,8 @@ But the path back to shore was now a channel of swirling, cold seawater, and the
 **[End Chapter 2: 2,512 words]**
 
 ---
+# Chapter 3
+
 ## **Chapter 3**
 
 The water was knee-deep and rising, a cold, relentless push that numbed the flesh and sought to topple the mind. It wasn’t just water; it was the tide, a planetary breath, and it made their human concerns feel tiny and absurd. The two Crows stood just beyond the water’s edge on the last patch of exposed mud, their stillness more threatening than any advance.
